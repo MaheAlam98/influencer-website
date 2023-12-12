@@ -25,6 +25,7 @@
     font-size: 16px;
     color: #3A3A3A;
     font-family: Poppins;
+    font-weight: bold;
 
 
    
@@ -94,6 +95,54 @@
     border-radius: 20px;
     margin-left: 200px;
     margin-right: 180px;
+   margin-bottom: 100px;
 }
+.titleber{
+    text-align: center;
+    color: #3A3A3A;
+    font-size: 28px;
+    font-weight: 600;
+}
+.cart{
+    
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+    width: 300px;
+    height: 400px;
+    border-radius: 5px;
+    gap: 5px;
+    padding:20px 20px 20px 20px;
+    margin-bottom: 20px;
+    
+   
+}
+.collection{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+   margin-left: 180px;
+   margin-right: 150px;
+   margin-bottom: 30px;
+}
+.tk{
+    font-family: Inter;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.87);
+}
+.pddis{
+    color: #787885;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.252px;
+}
+.more{
+    text-align: end;
+    margin-right: 220px;
+    color: rgba(224, 44, 109, 0.87);
+    font-size: 16px;
+    font-weight: 700;
 
+}
 
