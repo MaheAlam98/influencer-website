@@ -1,0 +1,99 @@
+
+*{
+    font-family: Poppins;
+    font-feature-settings: 'clig' off, 'liga' off;
+}
+.header{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 100px;
+
+}
+.header ul{
+    display: flex;
+   
+}
+.header_ber ul li{
+    list-style: none;
+    margin-right: 34px;
+    font-weight: 600px;
+    width: 62px;
+    height: 34.8px;
+    font-size: 16px;
+    color: #3A3A3A;
+    font-family: Poppins;
+
+
+   
+}
+.heder_title{
+    width: 243px;
+    height: 52.2px;
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-weight: 700;
+
+}
+.text{
+    margin-top: 100px;
+}
+.booking{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    
+}
+.booking_dis{
+    color: #3A3A3A;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 70px; 
+    width: 582px;
+    margin-bottom: 10px;
+
+}
+.booking_text{
+
+    color: #3A3A3A;
+    font-size: 16px;
+    width: 505px;
+    height: 60.9px;
+    margin-top: 0px;
+}
+.booking_buttun{
+    
+    background-color: #E02C6D;
+    border: 1px solid saddlebrown;
+    border-radius: 20px;
+    width: 120px;
+    display: inline-flex;
+    padding: 10px 24px;
+    align-items: flex-start;
+    margin-top: 10px;
+    
+    
+
+}
+.cam{
+
+    width: 440px;
+    height: 414px;
+   background-image:url('../images/Circle_design.svg');
+   margin-top: 50px;
+   
+}
+.sponsor{
+    display: flex;
+    border: 1px solid aquamarine;
+    justify-content: space-around;
+    width: 70%;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 180px;
+}
+
+
